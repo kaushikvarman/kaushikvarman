@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Hadoop and Spark from Great_Learning
 
 
-### My Self :slightly_smiling_face:
+### My Self :technologist:
+- Master of science in computer science with over 3+ years of professional experience as a Data Engineer.
+- Extensive hands-on experience with Hadoop and Spark ecosystems, coupled with a track record of successfully solving 300+ real-world SQL challenges, showcasing a strong analytical and logical reasoning.
+- Competent data engineer proficient in Python and SQL, achieving a gold rating on HackerRank.
 
