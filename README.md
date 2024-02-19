@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on AWS Data Engineering Project
+- 🌱 I’m currently learning Hadoop and Spark from Great_Learning
+
