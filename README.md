@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **AWS Data Ebgineering Project**
+ 🔭 I’m currently working on **AWS Data Engineering Project**
  
  🌱 I’m currently re-learning **Hadoop and Spark on GreatLearning**
 
@@ -39,9 +39,9 @@
 I possess six things <br>
 - Hardwork  : I Dont believe in luck, I believe in hard work.
 - Patience  : If you are losing the patience then you are losing the battle.
-- Sacrifice : If I dont sacrifice for what I want then what I want vecomes the sacrifice.
+- Sacrifice : If I dont sacrifice for what I want then what I want becomes the sacrifice.
 - Discipline : Motivation gets you going but discipline keeps you growing.
-- Self Confidence : They dont like me  I'll be fine if they don't like me.
+- Self Confidence : They dont like me :x: I'll be fine if they don't like me :white_check_mark:.
 - Consistency : Consistency is what transforms average into excellence.
 
 ##### My Productivity Hack:
