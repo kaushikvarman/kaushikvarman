@@ -35,14 +35,6 @@
 - Extensive hands-on experience with Hadoop and Spark ecosystems, coupled with a track record of successfully solving 300+ real-world SQL challenges, showcasing a strong analytical and logical reasoning.
 - Competent data engineer proficient in Python and SQL, achieving a gold rating on HackerRank.
 
-## Inspiration: 
-I possess six things <br>
-- Hardwork  : I Dont believe in luck, I believe in hard work.
-- Patience  : If you are losing the patience then you are losing the battle.
-- Sacrifice : If I dont sacrifice for what I want then what I want becomes the sacrifice.
-- Discipline : Motivation gets you going but discipline keeps you growing.
-- Self Confidence : They dont like me :x: I'll be fine if they don't like me :white_check_mark:.
-- Consistency : Consistency is what transforms average into excellence.
 
 ##### My Productivity Hack:
 - Instead of spending time getting in the mood to work, Just start working confront the work.People think they need a perfect conditions to start, when in reality starting is the perfect condition.
